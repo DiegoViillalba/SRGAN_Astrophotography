@@ -1,2 +1,3 @@
 # SRGAN_Astrophotography
- Use of a Super Resolution GAN'S along astrophotography techniques to improve planetary images
+
+# <center> **Porcesamiento y mejora de astrofotografía planetaria empleando Generative Adversarial Networks** </center>

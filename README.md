@@ -23,7 +23,7 @@ Obtuvimos resultados satisfactorios aplicables a diferentes áreas de procesamie
 ## **Introducción**
 
 <ul>
-    <li>1.1 La astrofotografía </li>
+    <li>*** La astrofotografía *** </li>
 La astrofotografía combina la astrofísica y la fotografía para capturar imágenes del cielo nocturno y objetos astronómicos. Ha experimentado una evolución desde las placas fotográficas hasta las cámaras digitales de alta resolución.
 
 ![Astro_1](https://www.rmg.co.uk/sites/default/files/styles/full_width_1440/public/PS2195402171243_Highly%20Commended_Cosmic%20Plughole%20%C2%A9%20James%20Stone_0.jpg?itok=yiNJeW76)
@@ -38,7 +38,7 @@ Sin embargo, la astrofotografía enfrenta desafíos como la contaminación lumí
 ![Astro_3](https://www.cloudynights.com/uploads/monthly_01_2006/post-14351-14070956155523.jpg)
 
 
-<li>1.2 Las SRGAN </li>
+<li>*** Las SRGAN ***</li>
 El SRGAN utiliza una arquitectura basada en Generative Adversarial Networks (GANS), que consiste en dos redes neuronales en competencia: el generador y el discriminador. El generador es responsable de tomar una imagen de baja resolución como entrada y generar una versión de alta resolución de la misma. El discriminador, por otro lado, tiene la tarea de distinguir entre las imágenes generadas por el generador y las imágenes reales de alta resolución.
 
 ![Astro_4](https://production-media.paperswithcode.com/methods/Screen_Shot_2020-07-19_at_11.13.45_AM_zsF2pa7.png)
@@ -47,7 +47,7 @@ El SRGAN utiliza una arquitectura basada en Generative Adversarial Networks (GAN
 La idea principal detrás de SRGAN es que el generador aprenda a generar imágenes de alta resolución que sean difíciles de distinguir de las imágenes reales de alta resolución, mientras que el discriminador aprende a identificar las imágenes generadas y las imágenes reales. A medida que estas dos redes compiten entre sí, se produce un proceso de aprendizaje en el que el generador mejora continuamente su capacidad para generar imágenes más realistas y de alta calidad.
 
 
-<li>1.3 Porblemática a desarrollar</li>
+<li>*** Porblemática a desarrollar ***</li>
 
 Dentro de la astrofotografía el area de la astrofotografía planetaria es una de las más retadoras, recordemos que los planetas son objetos muy pequeños dentro del cielo nocturno además de que recorren el cielo nocturno con gran velocidad, aunado a las diferentes fuentes de interferencia natural y artificial hacen que el tomar una unica fotografía entrege reultados de baja calidad, es así que uno de los procesos mas comunes para disminuir el ruido ambiental y la aberración cromatica generada por el rápido movimiento de los planetas es la toma de un video con un camara colocada en el telescopio, grabando de manera continua el objeto en un intervalo de tiempo.
 

@@ -4,8 +4,8 @@
 
 </center>
 
-*   Arantxa Camil Junco Flores  
 *   Diego Antonio Villalba González
+*   Arantxa Camil Junco Flores  
 *   Jonathan Alexis Hernández Cuevas
 
 
@@ -18,6 +18,9 @@ En este proyecto exponemos el proceso de desarrollo de una Generative Adversaria
 Obtuvimos resultados satisfactorios aplicables a diferentes áreas de procesamiento de imágenes en la industria, como cámaras de seguridad, ultrasonidos, etc.
 
 <img src="/results/moon_result.jpeg" title="Resultados en la luna">
+<img src="/results/moon2_result.jpeg" title="Resultados en la luna">
+<img src="/results/saturn_result.jpeg" title="Resultados en saturno">
+<img src="/results/jupiter_result.png" title="Resultados en jupiter">
 
 <div id='id1' />  
 

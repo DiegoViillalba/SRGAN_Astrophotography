@@ -17,7 +17,7 @@ En este proyecto exponemos el proceso de desarrollo de una Generative Adversaria
 
 Obtuvimos resultados satisfactorios aplicables a diferentes áreas de procesamiento de imágenes en la industria, como cámaras de seguridad, ultrasonidos, etc.
 
-<img src="/results/moon_result.jpeg.jpg" alt="Alt text" title="Optional title">
+<img src="/results/moon_result.jpeg" title="Resultados en la luna">
 
 <div id='id1' />  
 

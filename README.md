@@ -91,16 +91,16 @@ python generate.py --input data/low_res/ --output results/high_res/
 ## **Contributing**
 
 We welcome contributions!
-	1.	Fork the repository.
-	2.	Create a new branch (git checkout -b feature-branch).
-	3.	Make your changes.
-	4.	Commit your changes (git commit -m 'Added feature X').
-	5.	Push to the branch (git push origin feature-branch).
-	6.	Open a Pull Request.
 
-For major changes, please open an issue first to discuss them.
+1. **Fork the repository.**
+2. **Create a new branch** (`git checkout -b feature-branch`).
+3. **Make your changes.**
+4. **Commit your changes** (`git commit -m 'Added feature X'`).
+5. **Push to the branch** (`git push origin feature-branch`).
+6. **Open a Pull Request.**
 
-License
+For major changes, please open an **issue first** to discuss them
+## **License**
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
@@ -122,4 +122,4 @@ For any questions or collaboration opportunities:
 	•	LinkedIn: Diego Antonio Villalba González
 	•	GitHub: DiegoViillalba
 
-You can copy and paste this directly into your **README.md** file on GitHub. Let me know if you need further adjustments! 🚀
+
